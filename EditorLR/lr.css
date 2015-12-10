@@ -36,6 +36,11 @@ form div[role="main"], form div[role="complementary"]{
   background: #e9e9e6 none repeat scroll 0 0;
   color: #999;
 }
+
+.fullscreen #wmd-button-bar, .fullscreen #text, .fullscreen #wmd-preview, .fullscreen .submit {
+  width: 80%;
+}
+
 pre.prettyprint { display: block;font-family: Menlo,Monaco,Consolas,"Lucida Console","Courier New",monospace !important;}
 /* Pretty printing styles. Used with prettify.js. */
 
